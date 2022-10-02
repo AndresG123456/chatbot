@@ -1,0 +1,244 @@
+{
+    "STEP_0": {
+        "replyMessage": [
+            "Porfavor contacate con un agente humano"
+        ]
+    },
+    "STEP_1": {
+        "replyMessage": [
+            "Hola!, y Bienvenido al CHATBOT de frutas para distintos tipos de enfermedades mediante el uso WhatsApp. \n",
+            "\n Los integrantes son *Juan Fandiño* y *Andrés Guerrero* 😎 \n",
+            "\n Tenemos estas opciones para ti: \n",
+            "\n*(1)* Enfermedades cardiovasculares  \n",
+            "*(2)*  Enfermedades respiratorias\n",
+            "*(3)*  Enfermedades renales\n",
+            "*(4)*  Enfermedades gastrointestinales\n",
+            "*(0)*  Terminar conservación \n",
+            "\nPor favor, digita la opción por el número indicado en paréntesis o nombre de la enfermedad mencionando anteriormente."
+        ]
+    },
+    "STEP_2": {
+        "replyMessage": [
+            "Tenemos las siguientes opciones para enfermedades cardiovasculares \n",
+            "\n*(FRC)*   Frutas rojas \n",
+            "*(FRV)*    Frutas verdes \n",
+            "*(FRM)*    Frutas modaras \n",
+            "*(FRCC)*  Frutas de color claro \n",
+            "*(MJC)*   Mejores recomendaciones \n",
+            "*(MENÚ)* Volver a menú principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+        ]
+    },
+    "STEP_2_1": {
+        "replyMessage": [
+            "Para las *Frutas rojas* tenemos las siguientes recomendaciones: \n",
+            "\n*Fresa* \n",
+            "\nContribuyen a la dilatación de las arterias, protegen la capa interior de los vasos sanguíneos y ayuda a controlar la tensión arterial.\n",
+            "\n *Manzana Roja*  \n",
+            "\nAyuda a reducir el colesterol alto, los niveles de azúcar en sangre y el riesgo de padecer alguna enfermedad cardiovascular.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_2_2": {
+        "replyMessage": [
+            "Para las *Frutas verdes* tenemos las siguientes recomendaciones: \n",
+            "\n*Kiwi* \n",
+            "\nEs un protector de las arterias y capilares, además, ayuda a reducir la tensión arterial.\n",
+            "\n *Manzana Verde*  \n",
+            "\nAyuda con los nutrientes esenciales para el control de la tensión arterial y los niveles de colesterol.\n",
+            "\n *Pera*  \n",
+            "\nAyuda como antioxidante para disminuir la rigidez de los tejidos cardíacos, disminuye el nivel del colesterol malo que se pega en las arterias, además, la piel de la pera tiene nutrientes para la disminución de la inflamación, la presión sanguínea y los niveles de colesterol malo.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_2_3": {
+        "replyMessage": [
+            "Para las *Frutas moradas* tenemos las siguientes recomendaciones: \n",
+            "\n*Ciruela* \n",
+            "\nTiene una gran cantidad de potasio que ayuda a reducir la presión arterial.\n",
+            "\n *Higo*  \n",
+            "\nTiene fuentes de omega que ayuda a regular la presión arterial y reducir el riesgo de sufrir problemas cardiovasculares.\n",
+            "\n *Grosella negra*  \n",
+            "\nTienen una gran cantidad de potasio que ayuda a reducir la presión arterial y ayuda a las células de corazón a resistir daños y ralentiza la acumulación de plaquetas en los vasos sanguíneos.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_2_4": {
+        "replyMessage": [
+            "Para las *Frutas de color claro* tenemos las siguientes recomendaciones: \n",
+            "\n*Melocotón* \n",
+            "\nTienen altos contenidos de fibras, potasio y vitamina C las cuales ayudan a disminuir la permeabilidad de los capilares y aumentar la resistencia, mejorando la microcirculación venosa.\n",
+            "\n *Plátano*  \n",
+            "\nEl plátano reduce el riesgo de enfermedad cardiovascular gracias a su alto grado de potasio que tiene un importante control de la presión control.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_2_5": {
+        "replyMessage": [
+            "Las *Mejores recomendaciones* tenemos las siguientes recomendaciones: \n",
+            "\n*Pera* \n",
+            "\nAyuda como antioxidante para disminuir la rigidez de los tejidos cardíacos, disminuye el nivel del colesterol malo que se pega en las arterias, además, la piel de la pera tiene nutrientes para la disminución de la inflamación, la presión sanguínea y los niveles de colesterol malo.\n",
+            "\n*Grosella negra*\n",
+            "\nTienen una gran cantidad de potasio que ayuda a reducir la presión arterial y ayuda a las células de corazón a resistir daños y ralentiza la acumulación de plaquetas en los vasos sanguíneos.\n",
+            "\n*Melocotón*\n",
+            "\nTienen altos contenidos de fibras, potasio y vitamina C las cuales ayudan a disminuir la permeabilidad de los capilares y aumentar la resistencia, mejorando la microcirculación venosa.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_3": {
+        "replyMessage": [
+            "Tenemos las siguientes opciones para enfermedades respiratorias \n",
+            "\n*(FRR)* Frutas rojas \n",
+            "*(FCR)*  Frutas cítricas \n",
+            "*(MENU)* Volver a menu principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+        ]
+    },
+    "STEP_3_1": {
+        "replyMessage": [
+            "Para las *Frutas rojas* tenemos las siguientes recomendaciones: \n",
+            "\n*Fresa* \n",
+            "\nTienen un alto grado de vitamina C ayudando a mantener la salud de los pulmones.\n",
+            "\n *Manzanas*  \n",
+            "\nAyudan a aumentar la función pulmonar y la reducción de las sibilancias, además, tiene nutrientes para la protección de las vías respiratorias.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_3_2": {
+        "replyMessage": [
+            "Para las *Frutas cítricas* tenemos las siguientes recomendaciones: \n",
+            "\n*Naranjas* \n",
+            "\nTienen altos grados de vitamina C y antioxidantes que permiten evitar la inflamación de los pulmones.\n",
+            "\n *Limones*  \n",
+            "\nTiene un alto contenido en vitamina C, es perfecto para limpiar los pulmones.\n",
+            "\n *Pomelos*  \n",
+            "\nTienen alto grados de vitamina A y C que ayudan a mantener el bienestar de las células mocosas que recubren las vías respiratorias y el tracto respiratorio.\n",
+            "\n *Mandarinas*  \n",
+            "\nTienen altos grados de flavonoides, ácidos cítricos y vitaminas A y C y licopeno que cuidan la salud pulmonar y reducción del riesgo de una enfermedad pulmonar.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_3_3": {
+        "replyMessage": [
+            "Las *Mejores recomendaciones* tenemos las siguientes recomendaciones: \n",
+            "\n*Manzanas* \n",
+            "\nAyudan a aumentar la función pulmonar y la reducción de las sibilancias, además, tiene nutrientes para la protección de las vías respiratorias.\n",
+            "\n*Naranjas*\n",
+            "\nTienen altos grados de vitamina C y antioxidantes que permiten evitar la inflamación de los pulmones.\n",
+            "\n*Pomelos*\n",
+            "\nTienen alto grados de vitamina A y C que ayudan a mantener el bienestar de las células mocosas que recubren las vías respiratorias y el tracto respiratorio.\n",
+            "\n*Mandarias*\n",
+            "\nTienen altos grados de flavonoides, ácidos cítricos y vitaminas A y C y licopeno que cuidan la salud pulmonar y reducción del riesgo de una enfermedad pulmonar.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_4": {
+        "replyMessage": [
+            "Tenemos las siguientes opciones para enfermedades renales \n",
+            "\n*(FRRN)* Frutas rojas \n",
+            "*(FCCR)*  Frutas cítricas \n",
+            "*(MJRN)*  Mejores recomendaciones \n",
+            "*(MENU)* Volver a menu principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+        ]
+    },
+    "STEP_4_1": {
+        "replyMessage": [
+            "Para las *Frutas rojas* tenemos las siguientes recomendaciones: \n",
+            "\n*Fresas* \n",
+            "\nTienen un alto grado de vitamina C ayudando prevenir la oxidación del cuerpo y mantener saludables lo riñones.\n",
+            "\n *Arándanos*  \n",
+            "\nAyuda a mantener los riñones desintoxicados y mantener la vejiga limpia.\n",
+            "\n *Sandias*  \n",
+            "\nEs la mejor recomendación para enfermedades renales ya que contiene propiedades que ayudan a la limpieza de los tejidos y flujo sanguíneo y, por ende, beneficia a las funciones de los riñones.\n",
+            "\n *Manzanas*  \n",
+            "\nContienen propiedades diuréticas, que son ideales para la depuración de los riñones, para favorecer los procesos y las funciones renales.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_4_2": {
+        "replyMessage": [
+            "Para las *Frutas de color claro* tenemos las siguientes recomendaciones: \n",
+            "\n*Melocotón* \n",
+            "\nAumenta la actividad secretora de las glándulas digestivas y facilita la digestión de los alimentos altos en grasas. Además, es rico en potasio, por lo que cuida también de los riñones.\n",
+            "\n *Piña*  \n",
+            "\nContiene altos grados de vitamina C, potasio y bromelina. Esta última tiene efectos antiinflamatorios y diuréticos, y contribuye a eliminar las toxinas a través de la orina. La piña combate las infecciones y la inflamación en los riñones.\n",
+            "\n *Plátano*  \n",
+            "\nContiene altos grados de potasio, elemento fundamental para aumentar la producción de orina. Su fibra dietética insoluble, que incluye celulosa y fibra, contribuyen al funcionamiento normal del intestino.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_4_3": {
+        "replyMessage": [
+            "Las *Mejores recomendaciones* tenemos las siguientes recomendaciones: \n",
+            "\n*Sandias* \n",
+            "\nEs la mejor recomendación para enfermedades renales ya que contiene propiedades que ayudan a la limpieza de los tejidos y flujo sanguíneo y, por ende, beneficia a las funciones de los riñones.\n",
+            "\n*Piña*\n",
+            "\nContiene altos grados de vitamina C, potasio y bromelina. Esta última tiene efectos antiinflamatorios y diuréticos, y contribuye a eliminar las toxinas a través de la orina. La piña combate las infecciones y la inflamación en los riñones.\n",
+            "\n*Plátano*\n",
+            "\nContiene altos grados de potasio, elemento fundamental para aumentar la producción de orina. Su fibra dietética insoluble, que incluye celulosa y fibra, contribuyen al funcionamiento normal del intestino.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_5": {
+        "replyMessage": [
+            "Tenemos las siguientes opciones para enfermedades gastrointestinales \n",
+            "\n*(FRG)* Frutos rojas \n",
+            "*(FCCG)*  Frutas de colores claros \n",
+            "*(FTG)*  Frutas tropicales \n",
+            "*(MJG)*  Mejores recomendaciones \n",
+            "*(MENU)* Volver a menu principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+        ]
+    },
+    "STEP_5_1": {
+        "replyMessage": [
+            "Para las *Frutas rojas* tenemos las siguientes recomendaciones: \n",
+            "\n*Manzana* \n",
+            "\nOfrece una buena cantidad de pectina, además de ácido málico y quercetina. Estos dos últimos tienen propiedades antibacterianas y, por lo tanto, inhiben el desarrollo de bacterias dentro del estómago.\n",
+            "\n *Arándanos*  \n",
+            "\nLos fitoquímicos del arándano inciden de forma positiva en la microflora gastrointestinal y contribuyen a la salud del huésped.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_5_2": {
+        "replyMessage": [
+            "Para las *Frutas de colores claros* tenemos las siguientes recomendaciones: \n",
+            "\n*Plátano* \n",
+            "\n: Tiene propiedades que ayudan a prevenir las úlceras gástricas y proteger la mucosa del intestino, además, sirve para eliminar toxinas del cuerpo.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_5_3": {
+        "replyMessage": [
+            "Para las *Frutas tropicales* tenemos las siguientes recomendaciones: \n",
+            "\n*Coco* \n",
+            "\nTiene propiedades bastante buenas para la salud gastrointestinal, además, ayuda a prevenir otras condiciones como la diarrea o el estreñimiento.\n",
+            "\n *Papaya*  \n",
+            "\nEs rica en dos enzimas llamadas papaína y quimopapaína que mejoran los niveles de acidez en el estómago. También ayudan a descomponer las proteínas que ingerimos a través de la comida.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_5_4": {
+        "replyMessage": [
+            "Las *Mejores recomendaciones* tenemos las siguientes recomendaciones: \n",
+            "\n*Manzanas rojas* \n",
+            "\nOfrece una buena cantidad de pectina, además de ácido málico y quercetina. Estos dos últimos tienen propiedades antibacterianas y, por lo tanto, inhiben el desarrollo de bacterias dentro del estómago..\n",
+            "\n *Arándanos*  \n",
+            "\nLos fitoquímicos del arándano inciden de forma positiva en la microflora gastrointestinal y contribuyen a la salud del huéspedLos fitoquímicos del arándano inciden de forma positiva en la microflora gastrointestinal y contribuyen a la salud del huésped.\n",
+            "\n *Papaya*  \n",
+            "\nEs rica en dos enzimas llamadas papaína y quimopapaína que mejoran los niveles de acidez en el estómago. También ayudan a descomponer las proteínas que ingerimos a través de la comida.\n",
+            "\nEsperamos que sea de ayuda las recomendaciones."
+        ]
+    },
+    "STEP_6": {
+        "replyMessage": [
+            "Gracias por utilizar nuestro servicio 🤖"
+        ]
+    },
+    "STEP_7": {
+        "replyMessage": [
+            " 🤖"
+        ]
+    }
+}

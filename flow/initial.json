@@ -1,0 +1,158 @@
+[
+    {
+        "keywords": [
+            "hola",
+            "hola!",
+            "ola",
+            "inicio",
+            "buenos días",
+            "buenas tardes",
+            "buenas noches",
+            "necesito ayuda",
+            "menú",
+            "menu"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords": [
+            "enfermedades cardiovasculares",
+            "1"
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords": [
+            "frc",
+            "enfermedades cardiovasculares frutas rojas"
+        ],
+        "key": "STEP_2_1"
+    },
+    {
+        "keywords": [
+            "frv",
+            "enfermedades cardiovasculares frutas verdes"
+        ],
+        "key": "STEP_2_2"
+    },
+    {
+        "keywords": [
+            "frm",
+            "enfermedades cardiovasculares frutas moradas"
+        ],
+        "key": "STEP_2_3"
+    },
+    {
+        "keywords": [
+            "frcc",
+            "enfermedades cardiovasculares frutas de color claro"
+        ],
+        "key": "STEP_2_4"
+    },
+    {
+        "keywords": [
+            "mjc",
+            "enfermedades cardiovasculares mejores recomendaciones"
+        ],
+        "key": "STEP_2_5"
+    },
+    {
+        "keywords": [
+            "enfermedades respiratorias",
+            "2"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords": [
+            "frr",
+            "enfermedades respiratorias frutas rojas"
+        ],
+        "key": "STEP_3_1"
+    },
+    {
+        "keywords": [
+            "fcr",
+            "enfermedades respiratorias frutas citricas",
+            "enfermedades respiratorias frutas cítricas"
+        ],
+        "key": "STEP_3_2"
+    },
+    {
+        "keywords": [
+            "mjr",
+            "enfermedades respiratorias mejores recomendaciones"
+        ],
+        "key": "STEP_3_3"
+    },
+    {
+        "keywords": [
+            "enfermedades renales",
+            "3"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords": [
+            "frrn",
+            "enfermedades renales frutas rojas"
+        ],
+        "key": "STEP_4_1"
+    },
+    {
+        "keywords": [
+            "fccr",
+            "enfermedades renales frutas de color claro"
+        ],
+        "key": "STEP_4_2"
+    },
+    {
+        "keywords": [
+            "enfermedades gastrointestinales",
+            "4"
+        ],
+        "key": "STEP_5"
+    },
+    {
+        "keywords": [
+            "frg",
+            "enfermedades gastrointestinales frutas rojas",
+            "Enfermedades gastrointestinales frutas rojas"
+        ],
+        "key": "STEP_5_1"
+    },
+    {
+        "keywords": [
+            "fccg",
+            "enfermedades gastrointestinales frutas de color claro",
+            "Enfermedades gastrointestinales frutas de color claro"
+        ],
+        "key": "STEP_5_2"
+    },
+    {
+        "keywords": [
+            "ftg",
+            "enfermedades gastrointestinales frutas tropicales",
+            "Enfermedades gastrointestinales frutas tropicales"
+        ],
+        "key": "STEP_5_3"
+    },
+    {
+        "keywords": [
+            "mjg",
+            "enfermedades gastrointestinales mejores recomendaciones"
+        ],
+        "key": "STEP_5_3"
+    },
+    {
+        "keywords": [
+            "0",
+            "finalizar",
+            "adiós",
+            "muchas gracias por la ayuda",
+            "gracias",
+            "muchas gracias"
+        ],
+        "key": "STEP_6"
+    }
+]
