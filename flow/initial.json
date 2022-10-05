@@ -116,24 +116,21 @@
     {
         "keywords": [
             "frg",
-            "enfermedades gastrointestinales frutas rojas",
-            "Enfermedades gastrointestinales frutas rojas"
+            "enfermedades gastrointestinales frutas rojas"
         ],
         "key": "STEP_5_1"
     },
     {
         "keywords": [
             "fccg",
-            "enfermedades gastrointestinales frutas de color claro",
-            "Enfermedades gastrointestinales frutas de color claro"
+            "enfermedades gastrointestinales frutas de color claro"
         ],
         "key": "STEP_5_2"
     },
     {
         "keywords": [
             "ftg",
-            "enfermedades gastrointestinales frutas tropicales",
-            "Enfermedades gastrointestinales frutas tropicales"
+            "enfermedades gastrointestinales frutas tropicales"
         ],
         "key": "STEP_5_3"
     },
@@ -149,10 +146,17 @@
             "0",
             "finalizar",
             "adiós",
+            "adios",
             "muchas gracias por la ayuda",
             "gracias",
             "muchas gracias"
         ],
         "key": "STEP_6"
+    },
+    {
+        "keywords": [
+            "llamar"
+        ],
+        "key": "STEP_7"
     }
 ]

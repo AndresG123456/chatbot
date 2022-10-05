@@ -14,7 +14,7 @@ const get = (message) =>
 // Obtener respuesta
 const reply = (step) =>
   new Promise((resolve, reject) => {
-    let resData = { replyMessage: "", media: null};
+    let resData = { replyMessage: "" };
     const responseFind = stepsReponse[step] || {};
     resData = {
       ...resData,

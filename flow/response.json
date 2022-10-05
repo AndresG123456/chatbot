@@ -1,7 +1,12 @@
 {
     "STEP_0": {
         "replyMessage": [
-            "Porfavor contacate con un agente humano"
+            "¡Perdóname! No he entendido tu solicitud \n",
+            "\n Permíteme ayudarte: \n",
+            "\n*(MENÚ)* Volver a menú principal\n",
+            "*(LLAMAR)* Llamar agente \n",
+            "*(0)* Terminar conservación \n",
+            "\nPor favor, digita la opción indicada en paréntesis."
         ]
     },
     "STEP_1": {
@@ -9,7 +14,7 @@
             "Hola!, y Bienvenido al CHATBOT de frutas para distintos tipos de enfermedades mediante el uso WhatsApp. \n",
             "\n Los integrantes son *Juan Fandiño* y *Andrés Guerrero* 😎 \n",
             "\n Tenemos estas opciones para ti: \n",
-            "\n*(1)* Enfermedades cardiovasculares  \n",
+            "\n*(1)*  Enfermedades cardiovasculares  \n",
             "*(2)*  Enfermedades respiratorias\n",
             "*(3)*  Enfermedades renales\n",
             "*(4)*  Enfermedades gastrointestinales\n",
@@ -22,11 +27,11 @@
             "Tenemos las siguientes opciones para enfermedades cardiovasculares \n",
             "\n*(FRC)*   Frutas rojas \n",
             "*(FRV)*    Frutas verdes \n",
-            "*(FRM)*    Frutas modaras \n",
+            "*(FRM)*    Frutas moradas \n",
             "*(FRCC)*  Frutas de color claro \n",
             "*(MJC)*   Mejores recomendaciones \n",
             "*(MENÚ)* Volver a menú principal\n",
-            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente *(enfermedades cardiovasculares frutas rojas)*."
         ]
     },
     "STEP_2_1": {
@@ -90,8 +95,8 @@
             "Tenemos las siguientes opciones para enfermedades respiratorias \n",
             "\n*(FRR)* Frutas rojas \n",
             "*(FCR)*  Frutas cítricas \n",
-            "*(MENU)* Volver a menu principal\n",
-            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+            "*(MENÚ )* Volver a menú principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente *(enfermedades respiratorias frutas rojas)*."
         ]
     },
     "STEP_3_1": {
@@ -112,7 +117,7 @@
             "\n *Limones*  \n",
             "\nTiene un alto contenido en vitamina C, es perfecto para limpiar los pulmones.\n",
             "\n *Pomelos*  \n",
-            "\nTienen alto grados de vitamina A y C que ayudan a mantener el bienestar de las células mocosas que recubren las vías respiratorias y el tracto respiratorio.\n",
+            "\nTienen altos grados de vitamina A y C que ayudan a mantener el bienestar de las células mocosas que recubren las vías respiratorias y el tracto respiratorio.\n",
             "\n *Mandarinas*  \n",
             "\nTienen altos grados de flavonoides, ácidos cítricos y vitaminas A y C y licopeno que cuidan la salud pulmonar y reducción del riesgo de una enfermedad pulmonar.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
@@ -126,7 +131,7 @@
             "\n*Naranjas*\n",
             "\nTienen altos grados de vitamina C y antioxidantes que permiten evitar la inflamación de los pulmones.\n",
             "\n*Pomelos*\n",
-            "\nTienen alto grados de vitamina A y C que ayudan a mantener el bienestar de las células mocosas que recubren las vías respiratorias y el tracto respiratorio.\n",
+            "\nTienen altos grados de vitamina A y C que ayudan a mantener el bienestar de las células mocosas que recubren las vías respiratorias y el tracto respiratorio.\n",
             "\n*Mandarias*\n",
             "\nTienen altos grados de flavonoides, ácidos cítricos y vitaminas A y C y licopeno que cuidan la salud pulmonar y reducción del riesgo de una enfermedad pulmonar.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
@@ -138,8 +143,8 @@
             "\n*(FRRN)* Frutas rojas \n",
             "*(FCCR)*  Frutas cítricas \n",
             "*(MJRN)*  Mejores recomendaciones \n",
-            "*(MENU)* Volver a menu principal\n",
-            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+            "*(MENÚ )* Volver a menú principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente *(enfermedades renales frutas rojas)*."
         ]
     },
     "STEP_4_1": {
@@ -150,7 +155,7 @@
             "\n *Arándanos*  \n",
             "\nAyuda a mantener los riñones desintoxicados y mantener la vejiga limpia.\n",
             "\n *Sandias*  \n",
-            "\nEs la mejor recomendación para enfermedades renales ya que contiene propiedades que ayudan a la limpieza de los tejidos y flujo sanguíneo y, por ende, beneficia a las funciones de los riñones.\n",
+            "\nEs la mejor recomendación para enfermedades renales, ya que contiene propiedades que ayudan a la limpieza de los tejidos y flujo sanguíneo y, por ende, beneficia a las funciones de los riñones.\n",
             "\n *Manzanas*  \n",
             "\nContienen propiedades diuréticas, que son ideales para la depuración de los riñones, para favorecer los procesos y las funciones renales.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
@@ -162,7 +167,7 @@
             "\n*Melocotón* \n",
             "\nAumenta la actividad secretora de las glándulas digestivas y facilita la digestión de los alimentos altos en grasas. Además, es rico en potasio, por lo que cuida también de los riñones.\n",
             "\n *Piña*  \n",
-            "\nContiene altos grados de vitamina C, potasio y bromelina. Esta última tiene efectos antiinflamatorios y diuréticos, y contribuye a eliminar las toxinas a través de la orina. La piña combate las infecciones y la inflamación en los riñones.\n",
+            "\nContiene altos grados de vitamina C y potasio. Esta última tiene efectos antiinflamatorios y diuréticos, y contribuye a eliminar las toxinas a través de la orina. La piña combate las infecciones y la inflamación en los riñones.\n",
             "\n *Plátano*  \n",
             "\nContiene altos grados de potasio, elemento fundamental para aumentar la producción de orina. Su fibra dietética insoluble, que incluye celulosa y fibra, contribuyen al funcionamiento normal del intestino.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
@@ -172,9 +177,9 @@
         "replyMessage": [
             "Las *Mejores recomendaciones* tenemos las siguientes recomendaciones: \n",
             "\n*Sandias* \n",
-            "\nEs la mejor recomendación para enfermedades renales ya que contiene propiedades que ayudan a la limpieza de los tejidos y flujo sanguíneo y, por ende, beneficia a las funciones de los riñones.\n",
+            "\nEs la mejor recomendación para enfermedades renales, ya que contiene propiedades que ayudan a la limpieza de los tejidos y flujo sanguíneo y, por ende, beneficia a las funciones de los riñones.\n",
             "\n*Piña*\n",
-            "\nContiene altos grados de vitamina C, potasio y bromelina. Esta última tiene efectos antiinflamatorios y diuréticos, y contribuye a eliminar las toxinas a través de la orina. La piña combate las infecciones y la inflamación en los riñones.\n",
+            "\nContiene altos grados de vitamina C y potasio . Esta última tiene efectos antiinflamatorios y diuréticos, y contribuye a eliminar las toxinas a través de la orina. La piña combate las infecciones y la inflamación en los riñones.\n",
             "\n*Plátano*\n",
             "\nContiene altos grados de potasio, elemento fundamental para aumentar la producción de orina. Su fibra dietética insoluble, que incluye celulosa y fibra, contribuyen al funcionamiento normal del intestino.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
@@ -183,12 +188,12 @@
     "STEP_5": {
         "replyMessage": [
             "Tenemos las siguientes opciones para enfermedades gastrointestinales \n",
-            "\n*(FRG)* Frutos rojas \n",
+            "\n*(FRG)* Frutas rojas \n",
             "*(FCCG)*  Frutas de colores claros \n",
             "*(FTG)*  Frutas tropicales \n",
             "*(MJG)*  Mejores recomendaciones \n",
-            "*(MENU)* Volver a menu principal\n",
-            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente."
+            "*(MENÚ )* Volver a menú principal\n",
+            "\nPor favor, digita la opción indicada en paréntesis o nombre de la enfermedad acompañada con la fruta mencionando anteriormente *(enfermedades gastrointestinales frutas rojas)*."
         ]
     },
     "STEP_5_1": {
@@ -215,7 +220,7 @@
             "\n*Coco* \n",
             "\nTiene propiedades bastante buenas para la salud gastrointestinal, además, ayuda a prevenir otras condiciones como la diarrea o el estreñimiento.\n",
             "\n *Papaya*  \n",
-            "\nEs rica en dos enzimas llamadas papaína y quimopapaína que mejoran los niveles de acidez en el estómago. También ayudan a descomponer las proteínas que ingerimos a través de la comida.\n",
+            "\nEs rica en dos enzimas llamadas papaína y quimo papaína que mejoran los niveles de acidez en el estómago. También ayudan a descomponer las proteínas que ingerimos a través de la comida.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
         ]
     },
@@ -227,7 +232,7 @@
             "\n *Arándanos*  \n",
             "\nLos fitoquímicos del arándano inciden de forma positiva en la microflora gastrointestinal y contribuyen a la salud del huéspedLos fitoquímicos del arándano inciden de forma positiva en la microflora gastrointestinal y contribuyen a la salud del huésped.\n",
             "\n *Papaya*  \n",
-            "\nEs rica en dos enzimas llamadas papaína y quimopapaína que mejoran los niveles de acidez en el estómago. También ayudan a descomponer las proteínas que ingerimos a través de la comida.\n",
+            "\nEs rica en dos enzimas llamadas papaína y quimo papaína que mejoran los niveles de acidez en el estómago. También ayudan a descomponer las proteínas que ingerimos a través de la comida.\n",
             "\nEsperamos que sea de ayuda las recomendaciones."
         ]
     },
@@ -238,7 +243,7 @@
     },
     "STEP_7": {
         "replyMessage": [
-            " 🤖"
+            "Llamando agente.... 🤖"
         ]
     }
 }
